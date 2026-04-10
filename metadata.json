@@ -1,0 +1,5 @@
+{
+  "name": "Climate Cycle Simulator",
+  "description": "An interactive simulator for annual climate cycles and air quality index checks based on temperature inputs.",
+  "requestFramePermissions": []
+}
